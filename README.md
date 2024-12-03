@@ -1,1 +1,1 @@
-A simple text editor written using [iced](https://iced.rs/)
+A simple text editor written with [iced](https://iced.rs/)
